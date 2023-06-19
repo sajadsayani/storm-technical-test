@@ -1,0 +1,17 @@
+C:\SajadSayani\Source\Repos\storm-technologies\technicalTest1\CXmlInvoiceGenerator\bin\Debug\net6.0\CXmlInvoiceGenerator.exe
+C:\SajadSayani\Source\Repos\storm-technologies\technicalTest1\CXmlInvoiceGenerator\bin\Debug\net6.0\CXmlInvoiceGenerator.deps.json
+C:\SajadSayani\Source\Repos\storm-technologies\technicalTest1\CXmlInvoiceGenerator\bin\Debug\net6.0\CXmlInvoiceGenerator.runtimeconfig.json
+C:\SajadSayani\Source\Repos\storm-technologies\technicalTest1\CXmlInvoiceGenerator\bin\Debug\net6.0\CXmlInvoiceGenerator.dll
+C:\SajadSayani\Source\Repos\storm-technologies\technicalTest1\CXmlInvoiceGenerator\bin\Debug\net6.0\CXmlInvoiceGenerator.pdb
+C:\SajadSayani\Source\Repos\storm-technologies\technicalTest1\CXmlInvoiceGenerator\bin\Debug\net6.0\DatabaseAccess.dll
+C:\SajadSayani\Source\Repos\storm-technologies\technicalTest1\CXmlInvoiceGenerator\obj\Debug\net6.0\CXmlInvoiceGenerator.csproj.AssemblyReference.cache
+C:\SajadSayani\Source\Repos\storm-technologies\technicalTest1\CXmlInvoiceGenerator\obj\Debug\net6.0\CXmlInvoiceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\SajadSayani\Source\Repos\storm-technologies\technicalTest1\CXmlInvoiceGenerator\obj\Debug\net6.0\CXmlInvoiceGenerator.AssemblyInfoInputs.cache
+C:\SajadSayani\Source\Repos\storm-technologies\technicalTest1\CXmlInvoiceGenerator\obj\Debug\net6.0\CXmlInvoiceGenerator.AssemblyInfo.cs
+C:\SajadSayani\Source\Repos\storm-technologies\technicalTest1\CXmlInvoiceGenerator\obj\Debug\net6.0\CXmlInvoiceGenerator.csproj.CoreCompileInputs.cache
+C:\SajadSayani\Source\Repos\storm-technologies\technicalTest1\CXmlInvoiceGenerator\obj\Debug\net6.0\CXmlInvoiceGenerator.csproj.CopyComplete
+C:\SajadSayani\Source\Repos\storm-technologies\technicalTest1\CXmlInvoiceGenerator\obj\Debug\net6.0\CXmlInvoiceGenerator.dll
+C:\SajadSayani\Source\Repos\storm-technologies\technicalTest1\CXmlInvoiceGenerator\obj\Debug\net6.0\refint\CXmlInvoiceGenerator.dll
+C:\SajadSayani\Source\Repos\storm-technologies\technicalTest1\CXmlInvoiceGenerator\obj\Debug\net6.0\CXmlInvoiceGenerator.pdb
+C:\SajadSayani\Source\Repos\storm-technologies\technicalTest1\CXmlInvoiceGenerator\obj\Debug\net6.0\CXmlInvoiceGenerator.genruntimeconfig.cache
+C:\SajadSayani\Source\Repos\storm-technologies\technicalTest1\CXmlInvoiceGenerator\obj\Debug\net6.0\ref\CXmlInvoiceGenerator.dll
